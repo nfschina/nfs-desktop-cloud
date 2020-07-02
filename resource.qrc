@@ -1,0 +1,79 @@
+<RCC>
+    <qresource prefix="/new/index">
+        <file alias="close">image/close.png</file>
+        <file alias="max">image/max.png</file>
+        <file alias="min">image/min.png</file>
+        <file alias="resume">image/resume.png</file>
+        <file alias="title">image/title.png</file>
+        <file alias="taskbar">image/taskbar.png</file>
+        <file alias="close_hover">image/close_hover.png</file>
+        <file alias="close_ord">image/close_ord.png</file>
+        <file alias="close_pre">image/close_pre.png</file>
+        <file alias="max_hover">image/max_hover.png</file>
+        <file alias="max_ord">image/max_ord.png</file>
+        <file alias="max_pre">image/max_pre.png</file>
+        <file alias="min_hover">image/min_hover.png</file>
+        <file alias="min_pre">image/min_pre.png</file>
+        <file alias="resume_hover">image/resume_hover.png</file>
+        <file alias="resume_ord">image/resume_ord.png</file>
+        <file alias="resume_pre">image/resume_pre.png</file>
+        <file alias="tab">image/tab.png</file>
+        <file alias="mainwintitle">image/title1.png</file>
+        <file alias="down_namal">image/down_normal.png</file>
+        <file alias="down_namal_hover">image/down_normal_hover.png</file>
+        <file alias="down_namal_press">image/down_normal_press.png</file>
+        <file alias="run_namal">image/run_nomal.png</file>
+        <file alias="run_namal_hover">image/run_nomal_hover.png</file>
+        <file alias="run_namal_press">image/run_nomal_press.png</file>
+        <file alias="log_hover">image/log_hover.png</file>
+        <file alias="log_normal">image/log_normal.png</file>
+        <file alias="log_press">image/log_press.png</file>
+        <file alias="logo">image/LOGO.png</file>
+        <file alias="fresh_hover">image/fresh_hover.png</file>
+        <file alias="fresh_normal">image/fresh_normal.png</file>
+        <file alias="update_hover">image/update_hover.png</file>
+        <file alias="update_normal">image/update_normal.png</file>
+        <file>image/titlelogo.png</file>
+        <file>image/enter.png</file>
+        <file>image/enter-hover.png</file>
+        <file>image/checkbutton.png</file>
+        <file>image/checkbutton_click.png</file>
+        <file>image/help_hover.png</file>
+        <file>image/help_normal.png</file>
+        <file>image/list_normal.png</file>
+        <file>image/list_now.png</file>
+        <file>image/view_normal.png</file>
+        <file>image/view_now.png</file>
+        <file>image/SCREENEXPAND1.png</file>
+        <file>image/quit.png</file>
+        <file>image/quit_hover.png</file>
+        <file>image/SCREENEXPAND1_hover.png</file>
+        <file>image/MINUS.png</file>
+        <file>image/MINUS_hover.png</file>
+        <file>image/down_small.png</file>
+        <file>image/run_small.png</file>
+        <file>image/down.png</file>
+        <file>image/loading_run.gif</file>
+        <file>image/loading_fresh.gif</file>
+        <file>image/check.png</file>
+        <file>image/run.png</file>
+        <file>image/background.png</file>
+        <file>image/loading_update.gif</file>
+        <file>image/check_hover.png</file>
+        <file>image/check_hover2.png</file>
+        <file>image/down_hover.png</file>
+        <file>image/down_hover2.png</file>
+        <file>image/down2.png</file>
+        <file>image/run_hover.png</file>
+        <file>image/run_hover2.png</file>
+        <file>image/run2.png</file>
+        <file>image/check2.png</file>
+        <file>image/loading.gif</file>
+    </qresource>
+    <qresource prefix="/new/qss">
+        <file alias="style">style/style.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/title.png</file>
+    </qresource>
+</RCC>

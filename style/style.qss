@@ -1,0 +1,107 @@
+.QWidget
+{
+    background-color:white ;
+}
+/*中心窗口*/
+QWidget#centralwidget
+{
+   /* background-color:rgb(33,46,19) ;*/
+   background-color:white;
+}
+
+QCheckBox{
+    color:white;
+}
+
+
+/*标题栏关闭按钮设置*/
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonClose {
+border-image: url(:/new/index/close);
+
+}
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonClose:hover {
+border-image: url(:/new/index/close_hover);
+
+}
+/*QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonClose:pressed {
+border: none;
+image: url(:/new/index/close_pre);
+background-color:transparent;
+
+}*/
+/*标题栏最小化按钮设置*/
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonMin {
+border-image: url(:/new/index/image/MINUS.png);
+
+}
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonMin:hover {
+border-image: url(:/new/index/image/MINUS_hover.png);
+
+}
+
+
+/*标题栏最大化按钮设置*/
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonMax {
+border-image: url(:/new/index/image/SCREENEXPAND1.png);
+
+}
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonMax:hover {
+border-image: url(:/new/index/image/SCREENEXPAND1_hover.png);
+
+}
+
+/*标题栏恢复按钮设置*/
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonRestore {
+border-image: url(:/new/index/image/SCREENEXPAND1.png);
+
+}
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonRestore:hover {
+border-image: url(:/new/index/image/SCREENEXPAND1_hover.png);
+}
+
+/*标题栏 退出按钮*/
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonQuit {
+border-image: url(:/new/index/image/quit.png);
+}
+QMainWindow#HomeWindow>QWidget#TitleBar>QPushButton#ButtonQuit:hover{
+border-image: url(:/new/index/image/quit_hover.png);
+
+}
+
+
+
+
+
+
+
+/*QDialog*/
+QDialog
+{
+background:white;
+}
+
+
+QHeaderView::section {
+    background-color: #eeeeee;
+    color: black;
+    padding-left: 0px;
+    border: 0px solid #6c6c6c;
+}
+
+
+/*QLineEdit*/
+QLineEdit
+{
+    border: 1px solid #C4C4C3;
+}
+
+
+QListWidget
+{
+    border:1px solid #C4C4C3;
+}
+
+QScrollArea
+{
+    border:none
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1">
+<context>
+    <name>HomeWindow</name>
+    <message>
+        <location filename="homewindow.ui" line="20"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="homewindow.ui" line="245"/>
+        <source>VMware View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="homewindow.ui" line="349"/>
+        <source>Citrix Receriver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="homewindow.ui" line="453"/>
+        <source>RDP-Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="homewindow.ui" line="557"/>
+        <source>Spice-Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SettingDialog</name>
+    <message>
+        <location filename="settingdialog.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="69"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="94"/>
+        <source>languange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="106"/>
+        <source>Chinese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="125"/>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="131"/>
+        <source>setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="188"/>
+        <source>Vmware View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="198"/>
+        <source>Citrix Receriver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="205"/>
+        <source>RDP-Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.ui" line="212"/>
+        <source>Spice-Viewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.cpp" line="42"/>
+        <location filename="settingdialog.cpp" line="184"/>
+        <source>Disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="settingdialog.cpp" line="48"/>
+        <location filename="settingdialog.cpp" line="174"/>
+        <source>Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+</TS>
